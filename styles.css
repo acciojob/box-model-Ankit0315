@@ -11,20 +11,20 @@
 	border:2px solid black;
 	border-radius:25px;
 }
-.red{
-	background-color:green;
-	border-radius:50%;
-	height:50px;
-	width:40px;
-}
 .green{
-	background-color:yellow;
+	background-color:rgb(0,128,0);
 	border-radius:50%;
 	height:50px;
 	width:40px;
 }
 .yellow{
-	background-color:red;
+	background-color:rgb(255,255,0);
+	border-radius:50%;
+	height:50px;
+	width:40px;
+}
+.red{
+	background-color:rgb(255,0,0);
 	border-radius:50%;
 	height:50px;
 	width:40px;
